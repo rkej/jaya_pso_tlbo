@@ -5,3 +5,5 @@ Implementation of Jaya, Particle Swarm Optimization and Teaching Learning Based 
 1. Pandas
 2. NumPy
 
+## Result Comparison
+![demo](result_comparison.png)
